@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "name": "Zubaida Tariq",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 30 years",
+    "awards": [
+      "Masala TV Award for Best Cooking Expert",
+      "Lux Style Award for Best TV Chef"
+    ],
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Haleem",
+        "image": "https://example.com/haleem.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "image": "https://example.com/nihari.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Biryani",
+        "image": "https://example.com/biryani.jpg"
+      }
+    ],
+    "image": "https://example.com/zubaida-tariq.jpg",
+    "likes": 10000,
+    "description": "Zubaida Tariq was a well-known Pakistani chef who was famous for her traditional cooking techniques and delicious recipes. She was a household name in Pakistan and had a huge fan following. Her cooking shows were very popular and she was known for her friendly and easy-to-follow style of teaching. She passed away in January 2018, but her legacy as a great Pakistani chef lives on."
+  },
+  {
+    "id": 2,
+    "name": "Shireen Anwar",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 25 years",
+    "awards": ["Masala TV Award for Best Cooking Expert"],
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Chicken karahi",
+        "image": "https://example.com/chicken-karahi.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Tandoori chicken",
+        "image": "https://example.com/tandoori-chicken.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Biryani",
+        "image": "https://example.com/biryani.jpg"
+      }
+    ],
+    "image": "https://example.com/shireen-anwar.jpg",
+    "likes": 7500,
+    "description": "Shireen Anwar is a popular Pakistani chef who is known for her unique recipes and cooking style. She has been a part of the Pakistani cooking industry for over 25 years and has won several awards for her expertise. She is a regular on cooking shows on Pakistani television and is known for her warm and friendly personality. Her recipes are loved by people all over the world and she is considered to be one of the best Pakistani chefs of all time."
+  },
+  {
+    "id": 3,
+    "name": "Gulzar Hussain",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 20 years",
+    "awards": ["Masala TV Award for Best Cooking Expert"],
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Aloo gosht",
+        "image": "https://example.com/aloo-gosht.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chana dal",
+        "image": "https://example.com/chana-dal.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Saag",
+        "image": "https://example.com/saag.jpg"
+      }
+    ],
+    "image": "https://example.com/gulzar-hussain.jpg",
+    "likes": 5000,
+    "description": "Gulzar Hussain is a renowned Pakistani chef who has been in the culinary industry for over 20 years. Hehas been a part of the Pakistani cooking industry for over 25 years and has won several awards for her expertise. She is a regular on cooking shows on Pakistani television and is known for her warm and friendly personality. Her recipes are loved by people all over the world and she is considered to be one of the best Pakistani chefs of all time."
+  },
+  {
+    "id": 4,
+    "name": "Zarnak Sidhwa",
+    "specialty": "Baking, Desserts",
+    "experience": "Over 15 years",
+    "awards": [
+      "Masala TV Award for Best Baking Expert"
+    ],
+    "dishes": [
+      { "id":1,
+        "name": "Chocolate cake",
+        "image": "https://example.com/chocolate-cake.jpg"
+      },
+      { "id":2,
+        "name": "Pineapple upside-down cake",
+        "image": "https://example.com/pineapple-cake.jpg"
+      },
+      { "id":3,
+        "name": "Creme brulee",
+        "image": "https://example.com/creme-brulee.jpg"
+      }
+    ],
+    "image": "https://example.com/zarnak-sidhwa.jpg",
+    "likes": 8000,
+    "description": "Zarnak Sidhwa is a Pakistani pastry chef and television personality known for her baking skills. She has been hosting cooking shows for over 15 years and has won several awards for her expertise. She is known for her innovative and creative dessert recipes, and her shows are watched by people all over the world. She is one of the most popular Pakistani chefs and has a huge fan following on social media."
+  },{
+    "id": 2,
+    "name": "Mehboob Khan",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 20 years",
+    "awards": [
+      "Masala TV Award for Best Cooking Expert"
+    ],
+    "dishes": [
+      {
+        "name": "Haleem",
+        "image": "https://example.com/haleem.jpg"
+      },
+      {
+        "name": "Biryani",
+        "image": "https://example.com/biryani.jpg"
+      },
+      {
+        "name": "Kebabs",
+        "image": "https://example.com/kebabs.jpg"
+      }
+    ],
+    "image": "https://example.com/mehboob-khan.jpg",
+    "likes": 6000,
+    "description": "Mehboob Khan is a well-known Pakistani chef who specializes in Pakistani cuisine. He has been in the culinary industry for over 20 years and has won several awards for his expertise. He is a regular on cooking shows on Pakistani television and is known for his easy-to-follow recipes and cooking techniques. His dishes are loved by people all over the world and he is considered to be one of the best Pakistani chefs of all time."
+  },{
+    "id": 3,
+    "name": "Chef Saadat Siddiqi",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 10 years",
+    "awards": [
+      "ARY Zauq Award for Best Chef"
+    ],
+    "dishes": [
+      {
+         "id":1,
+        "name": "Haleem",
+        "image": "https://example.com/haleem.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Biryani",
+        "image": "https://example.com/biryani.jpg"
+      },
+      {
+        "id":3,
+        "name": "Kunafa",
+        "image": "https://example.com/kunafa.jpg"
+      }
+    ],
+    "image": "https://example.com/saadat-siddiqi.jpg",
+    "likes": 4500,
+    "description": "Chef Saadat Siddiqi is a Pakistani chef who is known for his expertise in Pakistani cuisine. He has been in the culinary industry for over 20 years and has won several awards for his expertise. He is a regular on cooking shows on Pakistani television and is known for his easy-to-follow recipes and cooking techniques. His dishes are loved by people all over the world and he is considered to be one of the best Pakistani chefs of all time."
+}
+]
