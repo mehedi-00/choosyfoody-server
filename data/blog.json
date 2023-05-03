@@ -1,0 +1,24 @@
+ [
+      {
+        "id": 1,
+        "question": "Tell us the differences between uncontrolled and controlled components.",
+        "answer": "In React, controlled components are those whose values are controlled by React, while uncontrolled components are those whose values are controlled by the DOM. Controlled components use the 'value' prop and an 'onChange' event handler to update the value of the component. On the other hand, uncontrolled components rely on the state of the DOM to manage their values. Controlled components are recommended for most cases as they provide a single source of truth for the component's state and make it easier to implement complex features like form validation and undo/redo functionality."
+      },
+      {
+        "id": 2,
+        "question": "How to validate React props using PropTypes?",
+        "answer": "PropTypes is a built-in feature in React that allows you to define the type and shape of props that your component should expect. To use PropTypes, you need to import it from the 'prop-types' package and define the types and shapes of the props in the 'propTypes' object of your component. For example, to define a required string prop, you can use 'PropTypes.string.isRequired'. PropTypes helps you catch bugs early by providing runtime validation of the props passed to your components."
+      },
+      {
+        "id": 3,
+        "question": "Tell us the difference between Node.js and Express.js.",
+        "answer": "Node.js is a JavaScript runtime that allows you to run JavaScript code on the server-side. Express.js is a web framework built on top of Node.js that provides a set of features for building web applications, such as routing, middleware, and template engines. While Node.js provides the core runtime environment for executing JavaScript code, Express.js provides a higher-level abstraction for building web applications. Node.js is suitable for building a wide range of applications, while Express.js is specifically designed for building web applications."
+      },
+      {
+        "id": 4,
+        "question": "What is a custom hook, and why will you create a custom hook?",
+        "answer": "A custom hook is a JavaScript function that allows you to reuse stateful logic across multiple components in a React application. You can create a custom hook by using the 'use' prefix in the function name and using built-in React hooks like 'useState' and 'useEffect'. You might create a custom hook to encapsulate complex stateful logic and make it reusable across different parts of your application. Custom hooks can also help you keep your code organized and reduce duplication by separating concerns into small, composable units of code."
+      }
+    ]
+  
+  
