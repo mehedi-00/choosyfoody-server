@@ -12,7 +12,12 @@
       {
         "id": 1,
         "name": "Biryani",
-        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "ingredients": [
+          "rice",
+          "meat (chicken, beef, or mutton)",
+          "spices",
+          "yogurt"
+        ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
         "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
         "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
@@ -21,7 +26,13 @@
       {
         "id": 2,
         "name": "Nihari",
-        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "ingredients": [
+          "beef or lamb shanks",
+          "spices",
+          "flour",
+          "ginger",
+          "garlic"
+        ],
         "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
         "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
         "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
@@ -36,8 +47,7 @@
         "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
         "ratting": 4
       }
-    ]
-    ,
+    ],
     "image": "https://i.tribune.com.pk/media/images/724599-ChefZakircopy-1403278101/724599-ChefZakircopy-1403278101.jpg",
     "likes": 10000,
     "description": "Zubaida Tariq was a well-known Pakistani chef who was famous for her traditional cooking techniques and delicious recipes. She was a household name in Pakistan and had a huge fan following. Her cooking shows were very popular and she was known for her friendly and easy-to-follow style of teaching. She passed away in January 2018, but her legacy as a great Pakistani chef lives on."
@@ -51,21 +61,42 @@
     "recipes": [
       {
         "id": 1,
-        "name": "Biryani",
-        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "name": "Classic Spaghetti with Meatballs",
+        "ingredients": [
+          "1 pound ground beef",
+          "1/2 cup breadcrumbs",
+          "1/4 cup milk",
+          "1/4 cup grated Parmesan cheese",
+          "2 tablespoons chopped fresh parsley",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 egg"
+        ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
-        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
-        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "cookingMethod": "In a large bowl, mix together the ground beef, breadcrumbs, milk, Parmesan cheese, parsley, garlic powder, salt, black pepper, and egg. Shape the mixture into 1-inch balls.",
+        "img": "https://media.istockphoto.com/id/1341564316/photo/spaghetti-and-meatballs.jpg?s=1024x1024&w=is&k=20&c=wZJMGQ27zr91hFC31FnnpZNZ2kDFZHkAPjmfoTp7Gks=",
         "ratting": 4.2
       },
       {
         "id": 2,
-        "name": "Nihari",
-        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "name": "Quinoa and Black Bean Salad",
+        "ingredients": [
+          "1 cup quinoa, rinsed and drained",
+          "1 can (15 ounces) black beans, rinsed and drained",
+          "1 red bell pepper, diced",
+          "1/2 red onion, diced",
+          "1 jalapeño pepper, seeded and minced",
+          "1/2 cup chopped fresh cilantro",
+          "2 tablespoons lime juice",
+          "2 tablespoons olive oil",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon salt"
+        ],
         "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
-        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
-        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
-        "ratting": 4.8
+        "cookingMethod": "In a medium saucepan, bring 2 cups of water to a boil. Add the quinoa and stir. Reduce the heat to low, cover, and simmer for 15 minutes or until the water is absorbed and the quinoa is tender. Remove from the heat and let stand for 5 minutes.",
+        "img": "https://www.budgetbytes.com/wp-content/uploads/2017/08/Smoky-Quinoa-and-Black-Bean-Salad-V1-768x1024.jpg",
+        "ratting": 4.4
       },
       {
         "id": 3,
@@ -76,8 +107,7 @@
         "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
         "ratting": 4.5
       }
-    ]
-    ,
+    ],
     "image": "https://images.squarespace-cdn.com/content/v1/5984b6c159cc687d5abe522d/1632165176991-IVEUZ4I35Y2WH65NGRPP/IMG-4657.JPG",
     "likes": 7500,
     "description": "Shireen Anwar is a popular Pakistani chef who is known for her unique recipes and cooking style. She has been a part of the Pakistani cooking industry for over 25 years and has won several awards for her expertise. She is a regular on cooking shows on Pakistani television and is known for her warm and friendly personality. Her recipes are loved by people all over the world and she is considered to be one of the best Pakistani chefs of all time."
@@ -92,7 +122,12 @@
       {
         "id": 1,
         "name": "Biryani",
-        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "ingredients": [
+          "rice",
+          "meat (chicken, beef, or mutton)",
+          "spices",
+          "yogurt"
+        ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
         "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
         "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
@@ -101,7 +136,13 @@
       {
         "id": 2,
         "name": "Nihari",
-        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "ingredients": [
+          "beef or lamb shanks",
+          "spices",
+          "flour",
+          "ginger",
+          "garlic"
+        ],
         "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
         "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
         "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
@@ -116,8 +157,7 @@
         "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
         "ratting": 4.5
       }
-    ]
-    ,
+    ],
     "image": "https://cdn-food.tribune.com.pk/users/chef/8xxjEDeBACzeb6iZ6yvqigyLKGhxXwSzyq5gDn4i.jpeg",
     "likes": 5000,
     "description": "Gulzar Hussain is a renowned Pakistani chef who has been in the culinary industry for over 20 years. Hehas been a part of the Pakistani cooking industry for over 25 years and has won several awards for her expertise. She is a regular on cooking shows on Pakistani television and is known for her warm and friendly personality. Her recipes are loved by people all over the world and she is considered to be one of the best Pakistani chefs of all time."
@@ -127,108 +167,175 @@
     "name": "Zarnak Sidhwa",
     "specialty": "Baking, Desserts",
     "experience": "Over 15 years",
-    "awards": [
-      "Masala TV Award for Best Baking Expert"
-    ],
+    "awards": ["Masala TV Award for Best Baking Expert"],
     "recipes": [
       {
         "id": 1,
         "name": "Biryani",
-        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "ingredients": [
+          "rice",
+          "meat (chicken, beef, or mutton)",
+          "spices",
+          "yogurt"
+        ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
         "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
         "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
         "ratting": 4.5
       },
       {
-        "id": 2,
-        "name": "Nihari",
-        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
-        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
-        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
-        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "id": 1,
+        "name": "Classic Spaghetti with Meatballs",
+        "ingredients": [
+          "1 pound ground beef",
+          "1/2 cup breadcrumbs",
+          "1/4 cup milk",
+          "1/4 cup grated Parmesan cheese",
+          "2 tablespoons chopped fresh parsley",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 egg"
+        ],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "In a large bowl, mix together the ground beef, breadcrumbs, milk, Parmesan cheese, parsley, garlic powder, salt, black pepper, and egg. Shape the mixture into 1-inch balls.",
+        "img": "https://media.istockphoto.com/id/1341564316/photo/spaghetti-and-meatballs.jpg?s=1024x1024&w=is&k=20&c=wZJMGQ27zr91hFC31FnnpZNZ2kDFZHkAPjmfoTp7Gks=",
         "ratting": 4.2
       },
       {
-        "id": 3,
-        "name": "Samosas",
-        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
-        "description": "A popular snack made with crispy pastry and a savory filling.",
-        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
-        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
-        "ratting": 4.4
+        "id": 1,
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+          "1 tablespoon vegetable oil",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1 red bell pepper, sliced",
+          "1 yellow bell pepper, sliced",
+          "1 cup sliced mushrooms",
+          "1 cup broccoli florets",
+          "1/4 cup soy sauce",
+          "2 tablespoons hoisin sauce"
+        ],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "In a wok or large skillet, heat the vegetable oil over high heat. Add the onion and garlic and stir-fry for 1-2 minutes.",
+        "img": "https://recipe30.com/wp-content/uploads/2021/08/Asian-stirfried-vegetables-848x477.jpg",
+        "ratting": 4.9
       }
-    ]
-    ,
+    ],
     "image": "https://c.ndtvimg.com/2022-09/qrrsv3ag_palash-mitra_625x300_15_September_22.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
     "likes": 8000,
     "description": "Zarnak Sidhwa is a Pakistani pastry chef and television personality known for her baking skills. She has been hosting cooking shows for over 15 years and has won several awards for her expertise. She is known for her innovative and creative dessert recipes, and her shows are watched by people all over the world. She is one of the most popular Pakistani chefs and has a huge fan following on social media."
-  },{
+  },
+  {
     "id": 5,
     "name": "Mehboob Khan",
     "specialty": "Pakistani cuisine",
     "experience": "Over 20 years",
-    "awards": [
-      "Masala TV Award for Best Cooking Expert"
-    ],
+    "awards": ["Masala TV Award for Best Cooking Expert"],
     "recipes": [
       {
         "id": 1,
-        "name": "Biryani",
-        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+          "1 tablespoon vegetable oil",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1 red bell pepper, sliced",
+          "1 yellow bell pepper, sliced",
+          "1 cup sliced mushrooms",
+          "1 cup broccoli florets",
+          "1/4 cup soy sauce",
+          "2 tablespoons hoisin sauce"
+        ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
-        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
-        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "cookingMethod": "In a wok or large skillet, heat the vegetable oil over high heat. Add the onion and garlic and stir-fry for 1-2 minutes.",
+        "img": "https://recipe30.com/wp-content/uploads/2021/08/Asian-stirfried-vegetables-848x477.jpg",
         "ratting": 4.9
       },
       {
         "id": 2,
         "name": "Nihari",
-        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "ingredients": [
+          "beef or lamb shanks",
+          "spices",
+          "flour",
+          "ginger",
+          "garlic"
+        ],
         "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
         "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
         "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
         "ratting": 4.4
       },
       {
-        "id": 3,
-        "name": "Samosas",
-        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
-        "description": "A popular snack made with crispy pastry and a savory filling.",
-        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
-        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
-        "ratting": 4.8
+        "id": 2,
+        "name": "Quinoa and Black Bean Salad",
+        "ingredients": [
+          "1 cup quinoa, rinsed and drained",
+          "1 can (15 ounces) black beans, rinsed and drained",
+          "1 red bell pepper, diced",
+          "1/2 red onion, diced",
+          "1 jalapeño pepper, seeded and minced",
+          "1/2 cup chopped fresh cilantro",
+          "2 tablespoons lime juice",
+          "2 tablespoons olive oil",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon salt"
+        ],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "In a medium saucepan, bring 2 cups of water to a boil. Add the quinoa and stir. Reduce the heat to low, cover, and simmer for 15 minutes or until the water is absorbed and the quinoa is tender. Remove from the heat and let stand for 5 minutes.",
+        "img": "https://www.budgetbytes.com/wp-content/uploads/2017/08/Smoky-Quinoa-and-Black-Bean-Salad-V1-768x1024.jpg",
+        "ratting": 4.5
       }
-    ]
-    ,
+    ],
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQ96pwhQRbbcpwJQs5LkYA_DQ1G-YdwP1Ug&usqp=CAU",
     "likes": 6000,
     "description": "Mehboob Khan is a well-known Pakistani chef who specializes in Pakistani cuisine. He has been in the culinary industry for over 20 years and has won several awards for his expertise. He is a regular on cooking shows on Pakistani television and is known for his easy-to-follow recipes and cooking techniques. His dishes are loved by people all over the world and he is considered to be one of the best Pakistani chefs of all time."
-  },{
+  },
+  {
     "id": 6,
     "name": "Chef Saadat Siddiqi",
     "specialty": "Pakistani cuisine",
     "experience": "Over 10 years",
-    "awards": [
-      "ARY Zauq Award for Best Chef"
-    ],
+    "awards": ["ARY Zauq Award for Best Chef"],
     "recipes": [
       {
         "id": 1,
-        "name": "Biryani",
-        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "name": "Classic Spaghetti with Meatballs",
+        "ingredients": [
+          "1 pound ground beef",
+          "1/2 cup breadcrumbs",
+          "1/4 cup milk",
+          "1/4 cup grated Parmesan cheese",
+          "2 tablespoons chopped fresh parsley",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 egg"
+        ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
-        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
-        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
-        "ratting": 4.3
+        "cookingMethod": "In a large bowl, mix together the ground beef, breadcrumbs, milk, Parmesan cheese, parsley, garlic powder, salt, black pepper, and egg. Shape the mixture into 1-inch balls.",
+        "img": "https://media.istockphoto.com/id/1341564316/photo/spaghetti-and-meatballs.jpg?s=1024x1024&w=is&k=20&c=wZJMGQ27zr91hFC31FnnpZNZ2kDFZHkAPjmfoTp7Gks=",
+        "ratting": 4.2
       },
       {
         "id": 2,
-        "name": "Nihari",
-        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "name": "Quinoa and Black Bean Salad",
+        "ingredients": [
+          "1 cup quinoa, rinsed and drained",
+          "1 can (15 ounces) black beans, rinsed and drained",
+          "1 red bell pepper, diced",
+          "1/2 red onion, diced",
+          "1 jalapeño pepper, seeded and minced",
+          "1/2 cup chopped fresh cilantro",
+          "2 tablespoons lime juice",
+          "2 tablespoons olive oil",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon salt"
+        ],
         "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
-        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
-        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "cookingMethod": "In a medium saucepan, bring 2 cups of water to a boil. Add the quinoa and stir. Reduce the heat to low, cover, and simmer for 15 minutes or until the water is absorbed and the quinoa is tender. Remove from the heat and let stand for 5 minutes.",
+        "img": "https://www.budgetbytes.com/wp-content/uploads/2017/08/Smoky-Quinoa-and-Black-Bean-Salad-V1-768x1024.jpg",
         "ratting": 4.5
       },
       {
@@ -240,13 +347,9 @@
         "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
         "ratting": 4.2
       }
-    ]
-    ,
+    ],
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA91wJJaYf9o9_785xc09nHJVZjx3-xywDFg&usqp=CAU",
     "likes": 4500,
     "description": "Chef Saadat Siddiqi is a Pakistani chef who is known for his expertise in Pakistani cuisine. He has been in the culinary industry for over 20 years and has won several awards for his expertise. He is a regular on cooking shows on Pakistani television and is known for his easy-to-follow recipes and cooking techniques. His dishes are loved by people all over the world and he is considered to be one of the best Pakistani chefs of all time."
-}
+  }
 ]
-
-
-
