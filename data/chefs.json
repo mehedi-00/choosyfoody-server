@@ -8,6 +8,7 @@
       "Masala TV Award for Best Cooking Expert",
       "Lux Style Award for Best TV Chef"
     ],
+    "recepies_number": 25,
     "recipes": [
       {
         "id": 1,
@@ -16,7 +17,8 @@
           "rice",
           "meat (chicken, beef, or mutton)",
           "spices",
-          "yogurt"
+          "yogurt",
+          "spices"
         ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
         "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
@@ -58,6 +60,7 @@
     "specialty": "Pakistani cuisine",
     "experience": "Over 25 years",
     "awards": ["Masala TV Award for Best Cooking Expert"],
+    "recepies_number": 20,
     "recipes": [
       {
         "id": 1,
@@ -118,6 +121,7 @@
     "specialty": "Pakistani cuisine",
     "experience": "Over 20 years",
     "awards": ["Masala TV Award for Best Cooking Expert"],
+    "recepies_number": 30,
     "recipes": [
       {
         "id": 1,
@@ -126,7 +130,8 @@
           "rice",
           "meat (chicken, beef, or mutton)",
           "spices",
-          "yogurt"
+          "yogurt",
+          "Oil"
         ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
         "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
@@ -168,6 +173,7 @@
     "specialty": "Baking, Desserts",
     "experience": "Over 15 years",
     "awards": ["Masala TV Award for Best Baking Expert"],
+    "recepies_number": 20,
     "recipes": [
       {
         "id": 1,
@@ -176,7 +182,8 @@
           "rice",
           "meat (chicken, beef, or mutton)",
           "spices",
-          "yogurt"
+          "yogurt",
+          "oil"
         ],
         "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
         "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
@@ -232,6 +239,7 @@
     "specialty": "Pakistani cuisine",
     "experience": "Over 20 years",
     "awards": ["Masala TV Award for Best Cooking Expert"],
+    "recepies_number": 22,
     "recipes": [
       {
         "id": 1,
@@ -298,6 +306,7 @@
     "specialty": "Pakistani cuisine",
     "experience": "Over 10 years",
     "awards": ["ARY Zauq Award for Best Chef"],
+    "recepies_number": 30,
     "recipes": [
       {
         "id": 1,
